@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+input.csv
+output_results.txt
+test_models.py
